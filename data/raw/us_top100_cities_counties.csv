@@ -1,0 +1,152 @@
+rank,city,state,city_state,population_2025_estimate,county,county_fips,fips_city_name,fips_state_name,matched_key
+1,New York,NY,New York_NY,8584629,Bronx County,36005,New York city,New York,New York_NY
+1,New York,NY,New York_NY,8584629,Kings County,36047,New York city,New York,New York_NY
+1,New York,NY,New York_NY,8584629,New York County,36061,New York city,New York,New York_NY
+1,New York,NY,New York_NY,8584629,Queens County,36081,New York city,New York,New York_NY
+1,New York,NY,New York_NY,8584629,Richmond County,36085,New York city,New York,New York_NY
+2,Los Angeles,CA,Los Angeles_CA,3869089,Los Angeles County,06037,Los Angeles city,California,Los Angeles_CA
+3,Chicago,IL,Chicago_IL,2731585,Cook County,17031,Chicago city,Illinois,Chicago_IL
+3,Chicago,IL,Chicago_IL,2731585,DuPage County,17043,Chicago city,Illinois,Chicago_IL
+4,Houston,TX,Houston_TX,2397315,Fort Bend County,48157,Houston city,Texas,Houston_TX
+4,Houston,TX,Houston_TX,2397315,Harris County,48201,Houston city,Texas,Houston_TX
+4,Houston,TX,Houston_TX,2397315,Montgomery County,48339,Houston city,Texas,Houston_TX
+4,Houston,TX,Houston_TX,2397315,Waller County,48473,Houston city,Texas,Houston_TX
+5,Phoenix,AZ,Phoenix_AZ,1665481,Maricopa County,04013,Phoenix city,Arizona,Phoenix_AZ
+6,Philadelphia,PA,Philadelphia_PA,1574281,Philadelphia County,42101,Philadelphia city,Pennsylvania,Philadelphia_PA
+7,San Antonio,TX,San Antonio_TX,1548422,Bexar County,48029,San Antonio city,Texas,San Antonio_TX
+7,San Antonio,TX,San Antonio_TX,1548422,Comal County,48091,San Antonio city,Texas,San Antonio_TX
+7,San Antonio,TX,San Antonio_TX,1548422,Medina County,48325,San Antonio city,Texas,San Antonio_TX
+8,San Diego,CA,San Diego_CA,1406106,San Diego County,06073,San Diego city,California,San Diego_CA
+9,Dallas,TX,Dallas_TX,1329491,Collin County,48085,Dallas city,Texas,Dallas_TX
+9,Dallas,TX,Dallas_TX,1329491,Dallas County,48113,Dallas city,Texas,Dallas_TX
+9,Dallas,TX,Dallas_TX,1329491,Denton County,48121,Dallas city,Texas,Dallas_TX
+9,Dallas,TX,Dallas_TX,1329491,Kaufman County,48257,Dallas city,Texas,Dallas_TX
+9,Dallas,TX,Dallas_TX,1329491,Rockwall County,48397,Dallas city,Texas,Dallas_TX
+10,Fort Worth,TX,Fort Worth_TX,1028117,Denton County,48121,Fort Worth city,Texas,Fort Worth_TX
+10,Fort Worth,TX,Fort Worth_TX,1028117,Johnson County,48251,Fort Worth city,Texas,Fort Worth_TX
+10,Fort Worth,TX,Fort Worth_TX,1028117,Parker County,48367,Fort Worth city,Texas,Fort Worth_TX
+10,Fort Worth,TX,Fort Worth_TX,1028117,Tarrant County,48439,Fort Worth city,Texas,Fort Worth_TX
+10,Fort Worth,TX,Fort Worth_TX,1028117,Wise County,48497,Fort Worth city,Texas,Fort Worth_TX
+11,Jacksonville,FL,Jacksonville_FL,1017689,Duval County,12031,Jacksonville city,Florida,Jacksonville_FL
+12,Austin,TX,Austin_TX,1002632,Bastrop County,48021,Austin city,Texas,Austin_TX
+12,Austin,TX,Austin_TX,1002632,Hays County,48209,Austin city,Texas,Austin_TX
+12,Austin,TX,Austin_TX,1002632,Travis County,48453,Austin city,Texas,Austin_TX
+12,Austin,TX,Austin_TX,1002632,Williamson County,48491,Austin city,Texas,Austin_TX
+13,San Jose,CA,San Jose_CA,989814,Santa Clara County,06085,San Jose city,California,San Jose_CA
+14,Charlotte,NC,Charlotte_NC,964784,Mecklenburg County,37119,Charlotte city,North Carolina,Charlotte_NC
+15,Columbus,OH,Columbus_OH,938396,Delaware County,39041,Columbus city,Ohio,Columbus_OH
+15,Columbus,OH,Columbus_OH,938396,Fairfield County,39045,Columbus city,Ohio,Columbus_OH
+15,Columbus,OH,Columbus_OH,938396,Franklin County,39049,Columbus city,Ohio,Columbus_OH
+16,Indianapolis,IN,Indianapolis_IN,901116,Marion County,18097,Indianapolis city (balance),Indiana,Indianapolis_IN
+17,San Francisco,CA,San Francisco_CA,826079,San Francisco County,06075,San Francisco city,California,San Francisco_CA
+18,Seattle,WA,Seattle_WA,784777,King County,53033,Seattle city,Washington,Seattle_WA
+19,Denver,CO,Denver_CO,740613,Denver County,08031,Denver city,Colorado,Denver_CO
+20,Nashville,TN,Nashville_TN,721074,Davidson County,47037,Nashville-Davidson metropolitan government (balance),Tennessee,Nashville_TN
+21,Oklahoma City,OK,Oklahoma City_OK,719849,Canadian County,40017,Oklahoma City city,Oklahoma,Oklahoma City_OK
+21,Oklahoma City,OK,Oklahoma City_OK,719849,Cleveland County,40027,Oklahoma City city,Oklahoma,Oklahoma City_OK
+21,Oklahoma City,OK,Oklahoma City_OK,719849,Oklahoma County,40109,Oklahoma City city,Oklahoma,Oklahoma City_OK
+21,Oklahoma City,OK,Oklahoma City_OK,719849,Pottawatomie County,40125,Oklahoma City city,Oklahoma,Oklahoma City_OK
+22,Washington,DC,Washington_DC,693645,District of Columbia,11001,Washington city,District of Columbia,Washington_DC
+23,El Paso,TX,El Paso_TX,683012,El Paso County,48141,El Paso city,Texas,El Paso_TX
+24,Las Vegas,NV,Las Vegas_NV,679817,Clark County,32003,Las Vegas city,Nevada,Las Vegas_NV
+25,Boston,MA,Boston_MA,672973,Suffolk County,25025,Boston city,Massachusetts,Boston_MA
+26,Detroit,MI,Detroit_MI,649095,Wayne County,26163,Detroit city,Michigan,Detroit_MI
+27,Louisville,KY,Louisville_KY,641962,Jefferson County,21111,Louisville/Jefferson County metro government (balance),Kentucky,Louisville_KY
+28,Portland,OR,Portland_OR,635109,Clackamas County,41005,Portland city,Oregon,Portland_OR
+28,Portland,OR,Portland_OR,635109,Multnomah County,41051,Portland city,Oregon,Portland_OR
+28,Portland,OR,Portland_OR,635109,Washington County,41067,Portland city,Oregon,Portland_OR
+29,Memphis,TN,Memphis_TN,609647,Shelby County,47157,Memphis city,Tennessee,Memphis_TN
+30,Baltimore,MD,Baltimore_MD,569997,Baltimore city,24510,Baltimore city,Maryland,Baltimore_MD
+31,Milwaukee,WI,Milwaukee_WI,562407,Milwaukee County,55079,Milwaukee city,Wisconsin,Milwaukee_WI
+31,Milwaukee,WI,Milwaukee_WI,562407,Washington County,55131,Milwaukee city,Wisconsin,Milwaukee_WI
+31,Milwaukee,WI,Milwaukee_WI,562407,Waukesha County,55133,Milwaukee city,Wisconsin,Milwaukee_WI
+32,Albuquerque,NM,Albuquerque_NM,556588,Bernalillo County,35001,Albuquerque city,New Mexico,Albuquerque_NM
+33,Fresno,CA,Fresno_CA,555549,Fresno County,06019,Fresno city,California,Fresno_CA
+34,Tucson,AZ,Tucson_AZ,548371,Pima County,04019,Tucson city,Arizona,Tucson_AZ
+35,Sacramento,CA,Sacramento_CA,536449,Sacramento County,06067,Sacramento city,California,Sacramento_CA
+36,Atlanta,GA,Atlanta_GA,529110,DeKalb County,13089,Atlanta city,Georgia,Atlanta_GA
+36,Atlanta,GA,Atlanta_GA,529110,Fulton County,13121,Atlanta city,Georgia,Atlanta_GA
+37,Kansas City,MO,Kansas City_MO,521220,Cass County,29037,Kansas City city,Missouri,Kansas City_MO
+37,Kansas City,MO,Kansas City_MO,521220,Clay County,29047,Kansas City city,Missouri,Kansas City_MO
+37,Kansas City,MO,Kansas City_MO,521220,Jackson County,29095,Kansas City city,Missouri,Kansas City_MO
+37,Kansas City,MO,Kansas City_MO,521220,Platte County,29165,Kansas City city,Missouri,Kansas City_MO
+38,Mesa,AZ,Mesa_AZ,513656,Maricopa County,04013,Mesa city,Arizona,Mesa_AZ
+39,Raleigh,NC,Raleigh_NC,506306,Durham County,37063,Raleigh city,North Carolina,Raleigh_NC
+39,Raleigh,NC,Raleigh_NC,506306,Wake County,37183,Raleigh city,North Carolina,Raleigh_NC
+40,Colorado Springs,CO,Colorado Springs_CO,494743,El Paso County,08041,Colorado Springs city,Colorado,Colorado Springs_CO
+41,Miami,FL,Miami_FL,489812,Miami-Dade County,12086,Miami city,Florida,Miami_FL
+42,Omaha,NE,Omaha_NE,488797,Douglas County,31055,Omaha city,Nebraska,Omaha_NE
+43,Virginia Beach,VA,Virginia Beach_VA,453737,Virginia Beach city,51810,Virginia Beach city,Virginia,Virginia Beach_VA
+44,Long Beach,CA,Long Beach_CA,450469,Los Angeles County,06037,Long Beach city,California,Long Beach_CA
+45,Oakland,CA,Oakland_CA,440838,Alameda County,06001,Oakland city,California,Oakland_CA
+46,Minneapolis,MN,Minneapolis_MN,430324,Hennepin County,27053,Minneapolis city,Minnesota,Minneapolis_MN
+47,Bakersfield,CA,Bakersfield_CA,422165,Kern County,06029,Bakersfield city,California,Bakersfield_CA
+48,Tulsa,OK,Tulsa_OK,416209,Osage County,40113,Tulsa city,Oklahoma,Tulsa_OK
+48,Tulsa,OK,Tulsa_OK,416209,Rogers County,40131,Tulsa city,Oklahoma,Tulsa_OK
+48,Tulsa,OK,Tulsa_OK,416209,Tulsa County,40143,Tulsa city,Oklahoma,Tulsa_OK
+48,Tulsa,OK,Tulsa_OK,416209,Wagoner County,40145,Tulsa city,Oklahoma,Tulsa_OK
+49,Tampa,FL,Tampa_FL,413554,Hillsborough County,12057,Tampa city,Florida,Tampa_FL
+50,Aurora,CO,Aurora_CO,410053,Adams County,08001,Aurora city,Colorado,Aurora_CO
+50,Aurora,CO,Aurora_CO,410053,Arapahoe County,08005,Aurora city,Colorado,Aurora_CO
+50,Aurora,CO,Aurora_CO,410053,Douglas County,08035,Aurora city,Colorado,Aurora_CO
+51,Arlington,TX,Arlington_TX,402134,Tarrant County,48439,Arlington city,Texas,Arlington_TX
+52,Wichita,KS,Wichita_KS,400987,Sedgwick County,20173,Wichita city,Kansas,Wichita_KS
+53,Cleveland,OH,Cleveland_OH,363608,Cuyahoga County,39035,Cleveland city,Ohio,Cleveland_OH
+54,New Orleans,LA,New Orleans_LA,362154,Orleans Parish,22071,New Orleans city,Louisiana,New Orleans_LA
+55,Henderson,NV,Henderson_NV,353289,Clark County,32003,Henderson city,Nevada,Henderson_NV
+56,Honolulu,HI,Honolulu_HI,341868,Honolulu County,15003,Honolulu CCD,Hawaii,Honolulu_HI
+57,Anaheim,CA,Anaheim_CA,341008,Orange County,06059,Anaheim city,California,Anaheim_CA
+58,Orlando,FL,Orlando_FL,333888,Orange County,12095,Orlando city,Florida,Orlando_FL
+59,Lexington,KY,Lexington_KY,329751,Fayette County,21067,Lexington-Fayette urban county,Kentucky,Lexington_KY
+60,Stockton,CA,Stockton_CA,324597,San Joaquin County,06077,Stockton city,California,Stockton_CA
+61,Newark,NJ,Newark_NJ,323808,Essex County,34013,Newark city,New Jersey,Newark_NJ
+62,Riverside,CA,Riverside_CA,323057,Riverside County,06065,Riverside city,California,Riverside_CA
+63,Irvine,CA,Irvine_CA,318764,Orange County,06059,Irvine city,California,Irvine_CA
+64,Corpus Christi,TX,Corpus Christi_TX,317247,Aransas County,48007,Corpus Christi city,Texas,Corpus Christi_TX
+64,Corpus Christi,TX,Corpus Christi_TX,317247,Kleberg County,48273,Corpus Christi city,Texas,Corpus Christi_TX
+64,Corpus Christi,TX,Corpus Christi_TX,317247,Nueces County,48355,Corpus Christi city,Texas,Corpus Christi_TX
+64,Corpus Christi,TX,Corpus Christi_TX,317247,San Patricio County,48409,Corpus Christi city,Texas,Corpus Christi_TX
+65,Santa Ana,CA,Santa Ana_CA,315586,Orange County,06059,Santa Ana city,California,Santa Ana_CA
+66,Cincinnati,OH,Cincinnati_OH,314367,Hamilton County,39061,Cincinnati city,Ohio,Cincinnati_OH
+67,Greensboro,NC,Greensboro_NC,308667,Guilford County,37081,Greensboro city,North Carolina,Greensboro_NC
+68,Pittsburgh,PA,Pittsburgh_PA,307632,Allegheny County,42003,Pittsburgh city,Pennsylvania,Pittsburgh_PA
+69,Saint Paul,MN,Saint Paul_MN,306684,Ramsey County,27123,St. Paul city,Minnesota,Saint Paul_MN
+70,Durham,NC,Durham_NC,305561,Durham County,37063,Durham city,North Carolina,Durham_NC
+70,Durham,NC,Durham_NC,305561,Orange County,37135,Durham city,North Carolina,Durham_NC
+70,Durham,NC,Durham_NC,305561,Wake County,37183,Durham city,North Carolina,Durham_NC
+71,Jersey City,NJ,Jersey City_NJ,302013,Hudson County,34017,Jersey City city,New Jersey,Jersey City_NJ
+72,Lincoln,NE,Lincoln_NE,301522,Lancaster County,31109,Lincoln city,Nebraska,Lincoln_NE
+73,North Las Vegas,NV,North Las Vegas_NV,296653,Clark County,32003,North Las Vegas city,Nevada,North Las Vegas_NV
+74,Plano,TX,Plano_TX,293028,Collin County,48085,Plano city,Texas,Plano_TX
+74,Plano,TX,Plano_TX,293028,Denton County,48121,Plano city,Texas,Plano_TX
+75,Gilbert,AZ,Gilbert_AZ,287285,Maricopa County,04013,Gilbert town,Arizona,Gilbert_AZ
+76,Anchorage,AK,Anchorage_AK,287155,Anchorage Municipality,02020,Anchorage municipality,Alaska,Anchorage_AK
+77,Madison,WI,Madison_WI,286233,Dane County,55025,Madison city,Wisconsin,Madison_WI
+78,Reno,NV,Reno_NV,283621,Washoe County,32031,Reno city,Nevada,Reno_NV
+79,Chandler,AZ,Chandler_AZ,278748,Maricopa County,04013,Chandler city,Arizona,Chandler_AZ
+80,St. Louis,MO,St. Louis_MO,278144,St. Louis city,29510,St. Louis city,Missouri,Saint Louis_MO
+81,Chula Vista,CA,Chula Vista_CA,275533,San Diego County,06073,Chula Vista city,California,Chula Vista_CA
+82,Fort Wayne,IN,Fort Wayne_IN,275203,Allen County,18003,Fort Wayne city,Indiana,Fort Wayne_IN
+83,Buffalo,NY,Buffalo_NY,274613,Erie County,36029,Buffalo city,New York,Buffalo_NY
+84,Lubbock,TX,Lubbock_TX,273071,Lubbock County,48303,Lubbock city,Texas,Lubbock_TX
+85,Laredo,TX,Laredo_TX,269515,Webb County,48479,Laredo city,Texas,Laredo_TX
+86,Port St. Lucie,FL,Port St. Lucie_FL,268062,St. Lucie County,12111,Port St. Lucie city,Florida,Port Saint Lucie_FL
+87,St. Petersburg,FL,St. Petersburg_FL,264033,Pinellas County,12103,St. Petersburg city,Florida,Saint Petersburg_FL
+88,Toledo,OH,Toledo_OH,263423,Lucas County,39095,Toledo city,Ohio,Toledo_OH
+89,Glendale,AZ,Glendale_AZ,260572,Maricopa County,04013,Glendale city,Arizona,Glendale_AZ
+90,Winston-Salem,NC,Winston-Salem_NC,257271,Forsyth County,37067,Winston-Salem city,North Carolina,Winston-Salem_NC
+91,Irving,TX,Irving_TX,257076,Dallas County,48113,Irving city,Texas,Irving_TX
+92,Chesapeake,VA,Chesapeake_VA,255332,Chesapeake city,51550,Chesapeake city,Virginia,Chesapeake_VA
+93,Garland,TX,Garland_TX,249625,Collin County,48085,Garland city,Texas,Garland_TX
+93,Garland,TX,Garland_TX,249625,Dallas County,48113,Garland city,Texas,Garland_TX
+93,Garland,TX,Garland_TX,249625,Rockwall County,48397,Garland city,Texas,Garland_TX
+94,Scottsdale,AZ,Scottsdale_AZ,243006,Maricopa County,04013,Scottsdale city,Arizona,Scottsdale_AZ
+95,Boise,ID,Boise_ID,238429,Ada County,16001,Boise City city,Idaho,Boise_ID
+96,Richmond,VA,Richmond_VA,237257,Richmond city,51760,Richmond city,Virginia,Richmond_VA
+97,Frisco,TX,Frisco_TX,236955,Collin County,48085,Frisco city,Texas,Frisco_TX
+97,Frisco,TX,Frisco_TX,236955,Denton County,48121,Frisco city,Texas,Frisco_TX
+98,Cape Coral,FL,Cape Coral_FL,236264,Lee County,12071,Cape Coral city,Florida,Cape Coral_FL
+99,McKinney,TX,McKinney_TX,236001,Collin County,48085,McKinney city,Texas,McKinney_TX
+100,Huntsville,AL,Huntsville_AL,233627,Limestone County,01083,Huntsville city,Alabama,Huntsville_AL
+100,Huntsville,AL,Huntsville_AL,233627,Madison County,01089,Huntsville city,Alabama,Huntsville_AL
+100,Huntsville,AL,Huntsville_AL,233627,Morgan County,01103,Huntsville city,Alabama,Huntsville_AL

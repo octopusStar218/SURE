@@ -1,0 +1,41 @@
+{
+  "task": "landcover_multiclass_6",
+  "n_classes": 6,
+  "dominant_min": 0.1,
+  "class_id_to_name": {
+    "0": "land_cover_barren",
+    "1": "land_cover_crop",
+    "2": "land_cover_forest",
+    "3": "land_cover_grass",
+    "4": "land_cover_urban",
+    "5": "land_cover_wetland"
+  },
+  "global_class_counts": {
+    "0": 16448,
+    "1": 1489,
+    "2": 22110,
+    "3": 741,
+    "4": 13799,
+    "5": 8
+  },
+  "positive_definition": "tract dominant land_cover class id among the 6 classes, after filtering dominant_value >= dominant_min",
+  "n_counties": 466,
+  "n_tracts_total_before_threshold": 54790,
+  "n_tracts_after_threshold": 54595,
+  "valid_rate_after_threshold": 0.9964409563789013,
+  "dominant_value_quantiles": {
+    "0": 0.0,
+    "0.01": 0.5800228358619377,
+    "0.05": 0.999995117093264,
+    "0.1": 0.9999998760291339,
+    "0.25": 1.0,
+    "0.5": 1.0,
+    "0.75": 1.0,
+    "0.9": 1.0,
+    "0.95": 1.0,
+    "0.99": 1.0,
+    "1.0": 1.0
+  },
+  "matrix_parquet": "${URBANSENSE_ROOT}/data/interim/overture_map/feature_matrices/tract/us_tract_feature_matrix.parquet",
+  "columns_json": "${URBANSENSE_ROOT}/data/interim/overture_map/feature_matrices/overture_feature_matrix_columns_tract.json"
+}

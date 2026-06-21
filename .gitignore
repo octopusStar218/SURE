@@ -1,0 +1,35 @@
+# Python/runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and local settings
+.env
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+
+# Generated experiment artifacts
+outputs/
+logs/
+wandb/
+mlruns/
+checkpoints/
+
+# Large raw/source artifacts that are intentionally not bundled.
+data/raw/graph/*.npy
+data/raw/graph/*.npz
+data/raw/mobility/
+data/external/
+
+# Common model artifacts outside the curated top-100 processed data folder.
+*.ckpt
+*.pth
+
+# OS/editor noise
+.DS_Store
+*~

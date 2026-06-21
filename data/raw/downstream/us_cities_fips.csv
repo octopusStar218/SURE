@@ -1,0 +1,992 @@
+City,State,County,FIPS
+New York city,New York,Bronx County,36005
+New York city,New York,Kings County,36047
+New York city,New York,New York County,36061
+New York city,New York,Queens County,36081
+New York city,New York,Richmond County,36085
+Los Angeles city,California,Los Angeles County,06037
+Chicago city,Illinois,Cook County,17031
+Chicago city,Illinois,DuPage County,17043
+Houston city,Texas,Fort Bend County,48157
+Houston city,Texas,Harris County,48201
+Houston city,Texas,Montgomery County,48339
+Houston city,Texas,Waller County,48473
+Phoenix city,Arizona,Maricopa County,04013
+Philadelphia city,Pennsylvania,Philadelphia County,42101
+San Antonio city,Texas,Bexar County,48029
+San Antonio city,Texas,Comal County,48091
+San Antonio city,Texas,Medina County,48325
+San Diego city,California,San Diego County,06073
+Dallas city,Texas,Collin County,48085
+Dallas city,Texas,Dallas County,48113
+Dallas city,Texas,Denton County,48121
+Dallas city,Texas,Kaufman County,48257
+Dallas city,Texas,Rockwall County,48397
+Jacksonville city,Florida,Duval County,12031
+Fort Worth city,Texas,Denton County,48121
+Fort Worth city,Texas,Johnson County,48251
+Fort Worth city,Texas,Parker County,48367
+Fort Worth city,Texas,Tarrant County,48439
+Fort Worth city,Texas,Wise County,48497
+San Jose city,California,Santa Clara County,06085
+Austin city,Texas,Bastrop County,48021
+Austin city,Texas,Hays County,48209
+Austin city,Texas,Travis County,48453
+Austin city,Texas,Williamson County,48491
+Charlotte city,North Carolina,Mecklenburg County,37119
+Columbus city,Ohio,Delaware County,39041
+Columbus city,Ohio,Fairfield County,39045
+Columbus city,Ohio,Franklin County,39049
+Indianapolis city (balance),Indiana,Marion County,18097
+San Francisco city,California,San Francisco County,06075
+Seattle city,Washington,King County,53033
+Denver city,Colorado,Denver County,08031
+Oklahoma City city,Oklahoma,Canadian County,40017
+Oklahoma City city,Oklahoma,Cleveland County,40027
+Oklahoma City city,Oklahoma,Oklahoma County,40109
+Oklahoma City city,Oklahoma,Pottawatomie County,40125
+Nashville-Davidson metropolitan government (balance),Tennessee,Davidson County,47037
+Washington city,District of Columbia,District of Columbia,11001
+El Paso city,Texas,El Paso County,48141
+Las Vegas city,Nevada,Clark County,32003
+Boston city,Massachusetts,Suffolk County,25025
+Detroit city,Michigan,Wayne County,26163
+Louisville/Jefferson County metro government (balance),Kentucky,Jefferson County,21111
+Portland city,Oregon,Clackamas County,41005
+Portland city,Oregon,Multnomah County,41051
+Portland city,Oregon,Washington County,41067
+Memphis city,Tennessee,Shelby County,47157
+Baltimore city,Maryland,Baltimore city,24510
+Milwaukee city,Wisconsin,Milwaukee County,55079
+Milwaukee city,Wisconsin,Washington County,55131
+Milwaukee city,Wisconsin,Waukesha County,55133
+Albuquerque city,New Mexico,Bernalillo County,35001
+Tucson city,Arizona,Pima County,04019
+Fresno city,California,Fresno County,06019
+Sacramento city,California,Sacramento County,06067
+Atlanta city,Georgia,DeKalb County,13089
+Atlanta city,Georgia,Fulton County,13121
+Mesa city,Arizona,Maricopa County,04013
+Kansas City city,Missouri,Cass County,29037
+Kansas City city,Missouri,Clay County,29047
+Kansas City city,Missouri,Jackson County,29095
+Kansas City city,Missouri,Platte County,29165
+Raleigh city,North Carolina,Durham County,37063
+Raleigh city,North Carolina,Wake County,37183
+Colorado Springs city,Colorado,El Paso County,08041
+Omaha city,Nebraska,Douglas County,31055
+Miami city,Florida,Miami-Dade County,12086
+Virginia Beach city,Virginia,Virginia Beach city,51810
+Long Beach city,California,Los Angeles County,06037
+Oakland city,California,Alameda County,06001
+Minneapolis city,Minnesota,Hennepin County,27053
+Bakersfield city,California,Kern County,06029
+Tulsa city,Oklahoma,Osage County,40113
+Tulsa city,Oklahoma,Rogers County,40131
+Tulsa city,Oklahoma,Tulsa County,40143
+Tulsa city,Oklahoma,Wagoner County,40145
+Tampa city,Florida,Hillsborough County,12057
+Arlington city,Texas,Tarrant County,48439
+Aurora city,Colorado,Adams County,08001
+Aurora city,Colorado,Arapahoe County,08005
+Aurora city,Colorado,Douglas County,08035
+Wichita city,Kansas,Sedgwick County,20173
+Cleveland city,Ohio,Cuyahoga County,39035
+New Orleans city,Louisiana,Orleans Parish,22071
+Henderson city,Nevada,Clark County,32003
+Honolulu CCD,Hawaii,Honolulu County,15003
+Anaheim city,California,Orange County,06059
+Orlando city,Florida,Orange County,12095
+Lexington-Fayette urban county,Kentucky,Fayette County,21067
+Stockton city,California,San Joaquin County,06077
+Riverside city,California,Riverside County,06065
+Irvine city,California,Orange County,06059
+Corpus Christi city,Texas,Aransas County,48007
+Corpus Christi city,Texas,Kleberg County,48273
+Corpus Christi city,Texas,Nueces County,48355
+Corpus Christi city,Texas,San Patricio County,48409
+Newark city,New Jersey,Essex County,34013
+Santa Ana city,California,Orange County,06059
+Cincinnati city,Ohio,Hamilton County,39061
+Pittsburgh city,Pennsylvania,Allegheny County,42003
+St. Paul city,Minnesota,Ramsey County,27123
+Greensboro city,North Carolina,Guilford County,37081
+Jersey City city,New Jersey,Hudson County,34017
+Durham city,North Carolina,Durham County,37063
+Durham city,North Carolina,Orange County,37135
+Durham city,North Carolina,Wake County,37183
+Lincoln city,Nebraska,Lancaster County,31109
+North Las Vegas city,Nevada,Clark County,32003
+Plano city,Texas,Collin County,48085
+Plano city,Texas,Denton County,48121
+Anchorage municipality,Alaska,Anchorage Municipality,02020
+Gilbert town,Arizona,Maricopa County,04013
+Madison city,Wisconsin,Dane County,55025
+Reno city,Nevada,Washoe County,32031
+Chandler city,Arizona,Maricopa County,04013
+St. Louis city,Missouri,St. Louis city,29510
+Chula Vista city,California,San Diego County,06073
+Buffalo city,New York,Erie County,36029
+Fort Wayne city,Indiana,Allen County,18003
+Lubbock city,Texas,Lubbock County,48303
+St. Petersburg city,Florida,Pinellas County,12103
+Toledo city,Ohio,Lucas County,39095
+Laredo city,Texas,Webb County,48479
+Port St. Lucie city,Florida,St. Lucie County,12111
+Glendale city,Arizona,Maricopa County,04013
+Irving city,Texas,Dallas County,48113
+Winston-Salem city,North Carolina,Forsyth County,37067
+Chesapeake city,Virginia,Chesapeake city,51550
+Garland city,Texas,Collin County,48085
+Garland city,Texas,Dallas County,48113
+Garland city,Texas,Rockwall County,48397
+Scottsdale city,Arizona,Maricopa County,04013
+Boise City city,Idaho,Ada County,16001
+Hialeah city,Florida,Miami-Dade County,12086
+Frisco city,Texas,Collin County,48085
+Frisco city,Texas,Denton County,48121
+Richmond city,Virginia,Richmond city,51760
+Cape Coral city,Florida,Lee County,12071
+Norfolk city,Virginia,Norfolk city,51710
+Spokane city,Washington,Spokane County,53063
+Huntsville city,Alabama,Limestone County,01083
+Huntsville city,Alabama,Madison County,01089
+Huntsville city,Alabama,Morgan County,01103
+Santa Clarita city,California,Los Angeles County,06037
+Tacoma city,Washington,Pierce County,53053
+Fremont city,California,Alameda County,06001
+McKinney city,Texas,Collin County,48085
+San Bernardino city,California,San Bernardino County,06071
+Baton Rouge city,Louisiana,East Baton Rouge Parish,22033
+Modesto city,California,Stanislaus County,06099
+Fontana city,California,San Bernardino County,06071
+Salt Lake City city,Utah,Salt Lake County,49035
+Moreno Valley city,California,Riverside County,06065
+Des Moines city,Iowa,Polk County,19153
+Des Moines city,Iowa,Warren County,19181
+Worcester city,Massachusetts,Worcester County,25027
+Yonkers city,New York,Westchester County,36119
+Fayetteville city,North Carolina,Cumberland County,37051
+Sioux Falls city,South Dakota,Lincoln County,46083
+Sioux Falls city,South Dakota,Minnehaha County,46099
+Grand Prairie city,Texas,Dallas County,48113
+Grand Prairie city,Texas,Ellis County,48139
+Grand Prairie city,Texas,Tarrant County,48439
+Rochester city,New York,Monroe County,36055
+Tallahassee city,Florida,Leon County,12073
+Little Rock city,Arkansas,Pulaski County,05119
+Amarillo city,Texas,Potter County,48375
+Amarillo city,Texas,Randall County,48381
+Overland Park city,Kansas,Johnson County,20091
+Columbus city,Georgia,Muscogee County,13215
+Augusta-Richmond County consolidated government (balance),Georgia,Richmond County,13245
+Mobile city,Alabama,Mobile County,01097
+Oxnard city,California,Ventura County,06111
+Grand Rapids city,Michigan,Kent County,26081
+Peoria city,Arizona,Maricopa County,04013
+Peoria city,Arizona,Yavapai County,04025
+Vancouver city,Washington,Clark County,53011
+Knoxville city,Tennessee,Knox County,47093
+Birmingham city,Alabama,Jefferson County,01073
+Birmingham city,Alabama,Shelby County,01117
+Montgomery city,Alabama,Montgomery County,01101
+Providence city,Rhode Island,Providence County,44007
+Huntington Beach city,California,Orange County,06059
+Brownsville city,Texas,Cameron County,48061
+Chattanooga city,Tennessee,Hamilton County,47065
+Fort Lauderdale city,Florida,Broward County,12011
+Tempe city,Arizona,Maricopa County,04013
+Akron city,Ohio,Summit County,39153
+Glendale city,California,Los Angeles County,06037
+Clarksville city,Tennessee,Montgomery County,47125
+Ontario city,California,San Bernardino County,06071
+Newport News city,Virginia,Newport News city,51700
+Elk Grove city,California,Sacramento County,06067
+Cary town,North Carolina,Chatham County,37037
+Cary town,North Carolina,Wake County,37183
+Aurora city,Illinois,DuPage County,17043
+Aurora city,Illinois,Kane County,17089
+Aurora city,Illinois,Kendall County,17093
+Aurora city,Illinois,Will County,17197
+Salem city,Oregon,Marion County,41047
+Salem city,Oregon,Polk County,41053
+Pembroke Pines city,Florida,Broward County,12011
+Eugene city,Oregon,Lane County,41039
+Santa Rosa city,California,Sonoma County,06097
+Rancho Cucamonga city,California,San Bernardino County,06071
+Shreveport city,Louisiana,Bossier Parish,22015
+Shreveport city,Louisiana,Caddo Parish,22017
+Garden Grove city,California,Orange County,06059
+Oceanside city,California,San Diego County,06073
+Fort Collins city,Colorado,Larimer County,08069
+Springfield city,Missouri,Christian County,29043
+Springfield city,Missouri,Greene County,29077
+Murfreesboro city,Tennessee,Rutherford County,47149
+Surprise city,Arizona,Maricopa County,04013
+Lancaster city,California,Los Angeles County,06037
+Denton city,Texas,Denton County,48121
+Roseville city,California,Placer County,06061
+Palmdale city,California,Los Angeles County,06037
+Corona city,California,Riverside County,06065
+Salinas city,California,Monterey County,06053
+Killeen city,Texas,Bell County,48027
+Paterson city,New Jersey,Passaic County,34031
+Alexandria city,Virginia,Alexandria city,51510
+Hollywood city,Florida,Broward County,12011
+Hayward city,California,Alameda County,06001
+Charleston city,South Carolina,Berkeley County,45015
+Charleston city,South Carolina,Charleston County,45019
+Macon-Bibb County,Georgia,Bibb County,13021
+Lakewood city,Colorado,Jefferson County,08059
+Sunnyvale city,California,Santa Clara County,06085
+Kansas City city,Kansas,Wyandotte County,20209
+Springfield city,Massachusetts,Hampden County,25013
+Bellevue city,Washington,King County,53033
+Naperville city,Illinois,DuPage County,17043
+Naperville city,Illinois,Will County,17197
+Joliet city,Illinois,Kendall County,17093
+Joliet city,Illinois,Will County,17197
+Bridgeport city,Connecticut,Fairfield County,09001
+Mesquite city,Texas,Dallas County,48113
+Mesquite city,Texas,Kaufman County,48257
+Pasadena city,Texas,Harris County,48201
+Olathe city,Kansas,Johnson County,20091
+Escondido city,California,San Diego County,06073
+Savannah city,Georgia,Chatham County,13051
+McAllen city,Texas,Hidalgo County,48215
+Gainesville city,Florida,Alachua County,12001
+Pomona city,California,Los Angeles County,06037
+Rockford city,Illinois,Ogle County,17141
+Rockford city,Illinois,Winnebago County,17201
+Thornton city,Colorado,Adams County,08001
+Thornton city,Colorado,Weld County,08123
+Waco city,Texas,McLennan County,48309
+Visalia city,California,Tulare County,06107
+Syracuse city,New York,Onondaga County,36067
+Columbia city,South Carolina,Lexington County,45063
+Columbia city,South Carolina,Richland County,45079
+Midland city,Texas,Martin County,48317
+Midland city,Texas,Midland County,48329
+Miramar city,Florida,Broward County,12011
+Palm Bay city,Florida,Brevard County,12009
+Lakewood CDP,New Jersey,Ocean County,34029
+Jackson city,Mississippi,Hinds County,28049
+Jackson city,Mississippi,Madison County,28089
+Jackson city,Mississippi,Rankin County,28121
+Coral Springs city,Florida,Broward County,12011
+Victorville city,California,San Bernardino County,06071
+Elizabeth city,New Jersey,Union County,34039
+Fullerton city,California,Orange County,06059
+Meridian city,Idaho,Ada County,16001
+Torrance city,California,Los Angeles County,06037
+Stamford city,Connecticut,Fairfield County,09001
+West Valley City city,Utah,Salt Lake County,49035
+Orange city,California,Orange County,06059
+Cedar Rapids city,Iowa,Linn County,19113
+Warren city,Michigan,Macomb County,26099
+Hampton city,Virginia,Hampton city,51650
+New Haven city,Connecticut,New Haven County,09009
+Pasadena city,California,Los Angeles County,06037
+Kent city,Washington,King County,53033
+Dayton city,Ohio,Greene County,39057
+Dayton city,Ohio,Montgomery County,39113
+Fargo city,North Dakota,Cass County,38017
+Lewisville city,Texas,Dallas County,48113
+Lewisville city,Texas,Denton County,48121
+Carrollton city,Texas,Collin County,48085
+Carrollton city,Texas,Dallas County,48113
+Carrollton city,Texas,Denton County,48121
+Round Rock city,Texas,Travis County,48453
+Round Rock city,Texas,Williamson County,48491
+Sterling Heights city,Michigan,Macomb County,26099
+Santa Clara city,California,Santa Clara County,06085
+Norman city,Oklahoma,Cleveland County,40027
+Columbia city,Missouri,Boone County,29019
+Abilene city,Texas,Jones County,48253
+Abilene city,Texas,Taylor County,48441
+Pearland city,Texas,Brazoria County,48039
+Pearland city,Texas,Fort Bend County,48157
+Pearland city,Texas,Harris County,48201
+Athens-Clarke County unified government (balance),Georgia,Clarke County,13059
+College Station city,Texas,Brazos County,48041
+Clovis city,California,Fresno County,06019
+West Palm Beach city,Florida,Palm Beach County,12099
+Allentown city,Pennsylvania,Lehigh County,42077
+North Charleston city,South Carolina,Berkeley County,45015
+North Charleston city,South Carolina,Charleston County,45019
+North Charleston city,South Carolina,Dorchester County,45035
+Simi Valley city,California,Ventura County,06111
+Topeka city,Kansas,Shawnee County,20177
+Wilmington city,North Carolina,New Hanover County,37129
+Lakeland city,Florida,Polk County,12105
+Thousand Oaks city,California,Ventura County,06111
+Concord city,California,Contra Costa County,06013
+Rochester city,Minnesota,Olmsted County,27109
+Vallejo city,California,Solano County,06095
+Ann Arbor city,Michigan,Washtenaw County,26161
+Broken Arrow city,Oklahoma,Tulsa County,40143
+Broken Arrow city,Oklahoma,Wagoner County,40145
+Fairfield city,California,Solano County,06095
+Lafayette city,Louisiana,Lafayette Parish,22055
+Hartford city,Connecticut,Hartford County,09003
+Arvada city,Colorado,Adams County,08001
+Arvada city,Colorado,Jefferson County,08059
+Berkeley city,California,Alameda County,06001
+Independence city,Missouri,Clay County,29047
+Independence city,Missouri,Jackson County,29095
+Billings city,Montana,Yellowstone County,30111
+Cambridge city,Massachusetts,Middlesex County,25017
+Lowell city,Massachusetts,Middlesex County,25017
+Odessa city,Texas,Ector County,48135
+Odessa city,Texas,Midland County,48329
+High Point city,North Carolina,Davidson County,37057
+High Point city,North Carolina,Forsyth County,37067
+High Point city,North Carolina,Guilford County,37081
+High Point city,North Carolina,Randolph County,37151
+League City city,Texas,Galveston County,48167
+League City city,Texas,Harris County,48201
+Antioch city,California,Contra Costa County,06013
+Richardson city,Texas,Collin County,48085
+Richardson city,Texas,Dallas County,48113
+Goodyear city,Arizona,Maricopa County,04013
+Pompano Beach city,Florida,Broward County,12011
+Nampa city,Idaho,Canyon County,16027
+Menifee city,California,Riverside County,06065
+Las Cruces city,New Mexico,Doña Ana County,35013
+Clearwater city,Florida,Pinellas County,12103
+West Jordan city,Utah,Salt Lake County,49035
+New Braunfels city,Texas,Comal County,48091
+New Braunfels city,Texas,Guadalupe County,48187
+Manchester city,New Hampshire,Hillsborough County,33011
+Miami Gardens city,Florida,Miami-Dade County,12086
+Waterbury city,Connecticut,New Haven County,09009
+Provo city,Utah,Utah County,49049
+Evansville city,Indiana,Vanderburgh County,18163
+Richmond city,California,Contra Costa County,06013
+Westminster city,Colorado,Adams County,08001
+Westminster city,Colorado,Jefferson County,08059
+Elgin city,Illinois,Cook County,17031
+Elgin city,Illinois,Kane County,17089
+Conroe city,Texas,Montgomery County,48339
+Greeley city,Colorado,Weld County,08123
+Lansing city,Michigan,Clinton County,26037
+Lansing city,Michigan,Eaton County,26045
+Lansing city,Michigan,Ingham County,26065
+Buckeye city,Arizona,Maricopa County,04013
+Tuscaloosa city,Alabama,Tuscaloosa County,01125
+Allen city,Texas,Collin County,48085
+Carlsbad city,California,San Diego County,06073
+Everett city,Washington,Snohomish County,53061
+Springfield city,Illinois,Sangamon County,17167
+Beaumont city,Texas,Jefferson County,48245
+Murrieta city,California,Riverside County,06065
+Rio Rancho city,New Mexico,Bernalillo County,35001
+Rio Rancho city,New Mexico,Sandoval County,35043
+Temecula city,California,Riverside County,06065
+Concord city,North Carolina,Cabarrus County,37025
+Tyler city,Texas,Smith County,48423
+Davie town,Florida,Broward County,12011
+South Fulton city,Georgia,Fulton County,13121
+Peoria city,Illinois,Peoria County,17143
+Sparks city,Nevada,Washoe County,32031
+Gresham city,Oregon,Multnomah County,41051
+Santa Maria city,California,Santa Barbara County,06083
+Pueblo city,Colorado,Pueblo County,08101
+Hillsboro city,Oregon,Washington County,41067
+Edison township,New Jersey,Middlesex County,34023
+Sugar Land city,Texas,Fort Bend County,48157
+San Buenaventura (Ventura) city,California,Ventura County,06111
+Downey city,California,Los Angeles County,06037
+Costa Mesa city,California,Orange County,06059
+Centennial city,Colorado,Arapahoe County,08005
+Edinburg city,Texas,Hidalgo County,48215
+Spokane Valley city,Washington,Spokane County,53063
+Jurupa Valley city,California,Riverside County,06065
+Bend city,Oregon,Deschutes County,41017
+West Covina city,California,Los Angeles County,06037
+Boulder city,Colorado,Boulder County,08013
+Palm Coast city,Florida,Flagler County,12035
+Lee's Summit city,Missouri,Cass County,29037
+Lee's Summit city,Missouri,Jackson County,29095
+Dearborn city,Michigan,Wayne County,26163
+Green Bay city,Wisconsin,Brown County,55009
+St. George city,Utah,Washington County,49053
+Woodbridge CDP,New Jersey,Middlesex County,34023
+Brockton city,Massachusetts,Plymouth County,25023
+Renton city,Washington,King County,53033
+Sandy Springs city,Georgia,Fulton County,13121
+Rialto city,California,San Bernardino County,06071
+El Monte city,California,Los Angeles County,06037
+Vacaville city,California,Solano County,06095
+Fishers city,Indiana,Hamilton County,18057
+South Bend city,Indiana,St. Joseph County,18141
+Carmel city,Indiana,Hamilton County,18057
+Yuma city,Arizona,Yuma County,04027
+Burbank city,California,Los Angeles County,06037
+Lynn city,Massachusetts,Essex County,25009
+Quincy city,Massachusetts,Norfolk County,25021
+El Cajon city,California,San Diego County,06073
+Fayetteville city,Arkansas,Washington County,05143
+Suffolk city,Virginia,Suffolk city,51800
+San Mateo city,California,San Mateo County,06081
+Chico city,California,Butte County,06007
+Inglewood city,California,Los Angeles County,06037
+Wichita Falls city,Texas,Wichita County,48485
+Boca Raton city,Florida,Palm Beach County,12099
+Hesperia city,California,San Bernardino County,06071
+Daly City city,California,San Mateo County,06081
+Clinton charter township,Michigan,Macomb County,26099
+Georgetown city,Texas,Williamson County,48491
+New Bedford city,Massachusetts,Bristol County,25005
+Albany city,New York,Albany County,36001
+Davenport city,Iowa,Scott County,19163
+Plantation city,Florida,Broward County,12011
+Deltona city,Florida,Volusia County,12127
+Federal Way city,Washington,King County,53033
+San Angelo city,Texas,Tom Green County,48451
+Tracy city,California,San Joaquin County,06077
+Sunrise city,Florida,Broward County,12011
+Fort Myers city,Florida,Lee County,12071
+Longmont city,Colorado,Boulder County,08013
+Longmont city,Colorado,Weld County,08123
+Kenosha city,Wisconsin,Kenosha County,55059
+Vista city,California,San Diego County,06073
+Edmond city,Oklahoma,Oklahoma County,40109
+Beaverton city,Oregon,Washington County,41067
+Norwalk city,California,Los Angeles County,06037
+Roanoke city,Virginia,Roanoke city,51770
+Yakima city,Washington,Yakima County,53077
+Lawrence city,Kansas,Douglas County,20045
+Orem city,Utah,Utah County,49049
+San Marcos city,California,San Diego County,06073
+Avondale city,Arizona,Maricopa County,04013
+Portsmouth city,Virginia,Portsmouth city,51740
+Temple city,Texas,Bell County,48027
+Merced city,California,Merced County,06047
+Reading city,Pennsylvania,Berks County,42011
+Bellingham city,Washington,Whatcom County,53073
+Mount Pleasant town,South Carolina,Charleston County,45019
+Kirkland city,Washington,King County,53033
+O'Fallon city,Missouri,St. Charles County,29183
+Greenville city,North Carolina,Pitt County,37147
+Asheville city,North Carolina,Buncombe County,37021
+Fall River city,Massachusetts,Bristol County,25005
+Manteca city,California,San Joaquin County,06077
+Indio city,California,Riverside County,06065
+Chino city,California,San Bernardino County,06071
+Norwalk city,Connecticut,Fairfield County,09001
+Redding city,California,Shasta County,06089
+Lehi city,Utah,Utah County,49049
+Livonia city,Michigan,Wayne County,26163
+Hoover city,Alabama,Jefferson County,01073
+Hoover city,Alabama,Shelby County,01117
+Erie city,Pennsylvania,Erie County,42049
+Hemet city,California,Riverside County,06065
+North Port city,Florida,Sarasota County,12115
+Sandy city,Utah,Salt Lake County,49035
+Roswell city,Georgia,Cobb County,13067
+Roswell city,Georgia,Fulton County,13121
+Champaign city,Illinois,Champaign County,17019
+Nashua city,New Hampshire,Hillsborough County,33011
+Mission Viejo city,California,Orange County,06059
+Bryan city,Texas,Brazos County,48041
+Carson city,California,Los Angeles County,06037
+Trenton city,New Jersey,Mercer County,34021
+Compton city,California,Los Angeles County,06037
+South Gate city,California,Los Angeles County,06037
+Santa Monica city,California,Los Angeles County,06037
+Newton city,Massachusetts,Middlesex County,25017
+Santa Fe city,New Mexico,Santa Fe County,35049
+Fort Smith city,Arkansas,Sebastian County,05131
+Deerfield Beach city,Florida,Broward County,12011
+Clifton city,New Jersey,Passaic County,34031
+Lawton city,Oklahoma,Comanche County,40031
+Westminster city,California,Orange County,06059
+Frederick city,Maryland,Frederick County,24021
+Springdale city,Arkansas,Benton County,05007
+Springdale city,Arkansas,Washington County,05143
+Lawrence city,Massachusetts,Essex County,25009
+Troy city,Michigan,Oakland County,26125
+Franklin city,Tennessee,Williamson County,47187
+Danbury city,Connecticut,Fairfield County,09001
+Ogden city,Utah,Weber County,49057
+Mission city,Texas,Hidalgo County,48215
+Waukegan city,Illinois,Lake County,17097
+Bloomington city,Minnesota,Hennepin County,27053
+Folsom city,California,Sacramento County,06067
+Duluth city,Minnesota,St. Louis County,27137
+Melbourne city,Florida,Brevard County,12009
+Leander city,Texas,Travis County,48453
+Leander city,Texas,Williamson County,48491
+Mountain View city,California,Santa Clara County,06085
+Santa Barbara city,California,Santa Barbara County,06083
+Lake Forest city,California,Orange County,06059
+Citrus Heights city,California,Sacramento County,06067
+Sioux City city,Iowa,Plymouth County,19149
+Sioux City city,Iowa,Woodbury County,19193
+Kennewick city,Washington,Benton County,53005
+San Leandro city,California,Alameda County,06001
+Medford city,Oregon,Jackson County,41029
+Warner Robins city,Georgia,Houston County,13153
+Warner Robins city,Georgia,Peach County,13225
+South Jordan city,Utah,Salt Lake County,49035
+Daytona Beach city,Florida,Volusia County,12127
+Baytown city,Texas,Chambers County,48071
+Baytown city,Texas,Harris County,48201
+San Ramon city,California,Contra Costa County,06013
+Homestead city,Florida,Miami-Dade County,12086
+Whittier city,California,Los Angeles County,06037
+Gastonia city,North Carolina,Gaston County,37071
+Auburn city,Washington,King County,53033
+Auburn city,Washington,Pierce County,53053
+New Rochelle city,New York,Westchester County,36119
+Livermore city,California,Alameda County,06001
+Kissimmee city,Florida,Osceola County,12097
+Cranston city,Rhode Island,Providence County,44007
+Layton city,Utah,Davis County,49011
+Farmington Hills city,Michigan,Oakland County,26125
+Rancho Cordova city,California,Sacramento County,06067
+Queen Creek town,Arizona,Maricopa County,04013
+Queen Creek town,Arizona,Pinal County,04021
+Auburn city,Alabama,Lee County,01081
+Longview city,Texas,Gregg County,48183
+Longview city,Texas,Harrison County,48203
+Hawthorne city,California,Los Angeles County,06037
+Doral city,Florida,Miami-Dade County,12086
+Warwick city,Rhode Island,Kent County,44003
+Miami Beach city,Florida,Miami-Dade County,12086
+Castle Rock town,Colorado,Douglas County,08035
+Boynton Beach city,Florida,Palm Beach County,12099
+Perris city,California,Riverside County,06065
+Redwood City city,California,San Mateo County,06081
+Newport Beach city,California,Orange County,06059
+Brooklyn Park city,Minnesota,Hennepin County,27053
+Westland city,Michigan,Wayne County,26163
+Buena Park city,California,Orange County,06059
+Jonesboro city,Arkansas,Craighead County,05031
+Largo city,Florida,Pinellas County,12103
+Redmond city,Washington,King County,53033
+Somerville city,Massachusetts,Middlesex County,25017
+Cicero town,Illinois,Cook County,17031
+Pasco city,Washington,Franklin County,53021
+Johns Creek city,Georgia,Fulton County,13121
+Lake Charles city,Louisiana,Calcasieu Parish,22019
+Pharr city,Texas,Hidalgo County,48215
+Loveland city,Colorado,Larimer County,08069
+Mansfield city,Texas,Ellis County,48139
+Mansfield city,Texas,Johnson County,48251
+Mansfield city,Texas,Tarrant County,48439
+Woodbury city,Minnesota,Washington County,27163
+Lynchburg city,Virginia,Lynchburg city,51680
+Alhambra city,California,Los Angeles County,06037
+Flower Mound town,Texas,Denton County,48121
+Flower Mound town,Texas,Tarrant County,48439
+Bloomington city,Indiana,Monroe County,18105
+Rapid City city,South Dakota,Pennington County,46103
+Milpitas city,California,Santa Clara County,06085
+Flint city,Michigan,Genesee County,26049
+Upland city,California,San Bernardino County,06071
+Bethlehem city,Pennsylvania,Lehigh County,42077
+Bethlehem city,Pennsylvania,Northampton County,42095
+Parma city,Ohio,Cuyahoga County,39035
+Bloomington city,Illinois,McLean County,17113
+Bowling Green city,Kentucky,Warren County,21227
+Tustin city,California,Orange County,06059
+Alameda city,California,Alameda County,06001
+Missouri City city,Texas,Fort Bend County,48157
+Missouri City city,Texas,Harris County,48201
+Wyoming city,Michigan,Kent County,26081
+Plymouth city,Minnesota,Hennepin County,27053
+Lakewood city,California,Los Angeles County,06037
+Cedar Park city,Texas,Travis County,48453
+Cedar Park city,Texas,Williamson County,48491
+Rochester Hills city,Michigan,Oakland County,26125
+Broomfield city,Colorado,Broomfield County,08014
+Mableton city,Georgia,Cobb County,13067
+Missoula city,Montana,Missoula County,30063
+Racine city,Wisconsin,Racine County,55101
+Lakeville city,Minnesota,Dakota County,27037
+Bismarck city,North Dakota,Burleigh County,38015
+Flagstaff city,Arizona,Coconino County,04005
+Chino Hills city,California,San Bernardino County,06071
+Pittsburg city,California,Contra Costa County,06013
+Schaumburg village,Illinois,Cook County,17031
+Schaumburg village,Illinois,DuPage County,17043
+Pawtucket city,Rhode Island,Providence County,44007
+Napa city,California,Napa County,06055
+Southfield city,Michigan,Oakland County,26125
+Ankeny city,Iowa,Polk County,19153
+Iowa City city,Iowa,Johnson County,19103
+Maricopa city,Arizona,Pinal County,04021
+Lauderhill city,Florida,Broward County,12011
+Marysville city,Washington,Snohomish County,53061
+Hammond city,Indiana,Lake County,18089
+Evanston city,Illinois,Cook County,17031
+Apex town,North Carolina,Wake County,37183
+Scranton city,Pennsylvania,Lackawanna County,42069
+New Britain city,Connecticut,Hartford County,09003
+Rock Hill city,South Carolina,York County,45091
+Bellflower city,California,Los Angeles County,06037
+Pleasanton city,California,Alameda County,06001
+Rogers city,Arkansas,Benton County,05007
+Arlington Heights village,Illinois,Cook County,17031
+Appleton city,Wisconsin,Calumet County,55015
+Appleton city,Wisconsin,Outagamie County,55087
+Appleton city,Wisconsin,Winnebago County,55139
+Noblesville city,Indiana,Hamilton County,18057
+Blaine city,Minnesota,Anoka County,27003
+Blaine city,Minnesota,Ramsey County,27123
+Tamarac city,Florida,Broward County,12011
+Rocklin city,California,Placer County,06061
+Apple Valley town,California,San Bernardino County,06071
+Bolingbrook village,Illinois,DuPage County,17043
+Bolingbrook village,Illinois,Will County,17197
+Gulfport city,Mississippi,Harrison County,28047
+Bayonne city,New Jersey,Hudson County,34017
+Greenville city,South Carolina,Greenville County,45045
+San Marcos city,Texas,Caldwell County,48055
+San Marcos city,Texas,Guadalupe County,48187
+San Marcos city,Texas,Hays County,48209
+Redlands city,California,San Bernardino County,06071
+West Des Moines city,Iowa,Dallas County,19049
+West Des Moines city,Iowa,Madison County,19121
+West Des Moines city,Iowa,Polk County,19153
+West Des Moines city,Iowa,Warren County,19181
+Johnson City city,Tennessee,Carter County,47019
+Johnson City city,Tennessee,Sullivan County,47163
+Johnson City city,Tennessee,Washington County,47179
+Lake Elsinore city,California,Riverside County,06065
+Framingham city,Massachusetts,Middlesex County,25017
+Kalamazoo city,Michigan,Kalamazoo County,26077
+Wilmington city,Delaware,New Castle County,10003
+Caldwell city,Idaho,Canyon County,16027
+Turlock city,California,Stanislaus County,06099
+Maple Grove city,Minnesota,Hennepin County,27053
+Tulare city,California,Tulare County,06107
+St. Charles city,Missouri,St. Charles County,29183
+Eau Claire city,Wisconsin,Chippewa County,55017
+Eau Claire city,Wisconsin,Eau Claire County,55035
+Harlingen city,Texas,Cameron County,48061
+St. Cloud city,Minnesota,Benton County,27009
+St. Cloud city,Minnesota,Sherburne County,27141
+St. Cloud city,Minnesota,Stearns County,27145
+Mount Vernon city,New York,Westchester County,36119
+East Orange city,New Jersey,Essex County,34013
+Lafayette city,Indiana,Tippecanoe County,18157
+Camden city,New Jersey,Camden County,34007
+Dothan city,Alabama,Dale County,01045
+Dothan city,Alabama,Henry County,01067
+Dothan city,Alabama,Houston County,01069
+Waukesha city,Wisconsin,Waukesha County,55133
+North Richland Hills city,Texas,Tarrant County,48439
+St. Joseph city,Missouri,Buchanan County,29021
+St. Cloud city,Florida,Osceola County,12097
+Jacksonville city,North Carolina,Onslow County,37133
+Walnut Creek city,California,Contra Costa County,06013
+Eastvale city,California,Riverside County,06065
+Passaic city,New Jersey,Passaic County,34031
+Conway city,Arkansas,Faulkner County,05045
+Gaithersburg city,Maryland,Montgomery County,24031
+Weston city,Florida,Broward County,12011
+Grand Junction city,Colorado,Mesa County,08077
+Dublin city,California,Alameda County,06001
+Ocala city,Florida,Marion County,12083
+Commerce City city,Colorado,Adams County,08001
+Delray Beach city,Florida,Palm Beach County,12099
+Camarillo city,California,Ventura County,06111
+Shawnee city,Kansas,Johnson County,20091
+Portland city,Maine,Cumberland County,23005
+Idaho Falls city,Idaho,Bonneville County,16019
+Schenectady city,New York,Schenectady County,36093
+Jackson city,Tennessee,Madison County,47113
+Baldwin Park city,California,Los Angeles County,06037
+Canton city,Ohio,Stark County,39151
+Yuba City city,California,Sutter County,06101
+Madera city,California,Madera County,06039
+Ames city,Iowa,Story County,19169
+Casa Grande city,Arizona,Pinal County,04021
+Decatur city,Illinois,Macon County,17115
+Lodi city,California,San Joaquin County,06077
+Rockville city,Maryland,Montgomery County,24031
+Haverhill city,Massachusetts,Essex County,25009
+Greenwood city,Indiana,Johnson County,18081
+Rowlett city,Texas,Dallas County,48113
+Rowlett city,Texas,Rockwall County,48397
+Redondo Beach city,California,Los Angeles County,06037
+Novi city,Michigan,Oakland County,26125
+Palo Alto city,California,Santa Clara County,06085
+Gary city,Indiana,Lake County,18089
+Waterloo city,Iowa,Black Hawk County,19013
+Alpharetta city,Georgia,Fulton County,13121
+Oshkosh city,Wisconsin,Winnebago County,55139
+Eagan city,Minnesota,Dakota County,27037
+Davis city,California,Yolo County,06113
+Huntersville town,North Carolina,Mecklenburg County,37119
+Sanford city,Florida,Seminole County,12117
+Union City city,New Jersey,Hudson County,34017
+Pflugerville city,Texas,Travis County,48453
+Pflugerville city,Texas,Williamson County,48491
+Albany city,Georgia,Dougherty County,13095
+Malden city,Massachusetts,Middlesex County,25017
+Port Orange city,Florida,Volusia County,12127
+Yorba Linda city,California,Orange County,06059
+Sammamish city,Washington,King County,53033
+Janesville city,Wisconsin,Rock County,55105
+Brentwood city,California,Contra Costa County,06013
+Shoreline city,Washington,King County,53033
+Union City city,California,Alameda County,06001
+Victoria city,Texas,Victoria County,48469
+Palatine village,Illinois,Cook County,17031
+Skokie village,Illinois,Cook County,17031
+Waltham city,Massachusetts,Middlesex County,25017
+Kyle city,Texas,Hays County,48209
+Lorain city,Ohio,Lorain County,39093
+Cheyenne city,Wyoming,Laramie County,56021
+Parker town,Colorado,Douglas County,08035
+Muncie city,Indiana,Delaware County,18035
+Burnsville city,Minnesota,Dakota County,27037
+Bellevue city,Nebraska,Sarpy County,31153
+South San Francisco city,California,San Mateo County,06081
+Kenner city,Louisiana,Jefferson Parish,22051
+North Little Rock city,Arkansas,Pulaski County,05119
+Richland city,Washington,Benton County,53005
+Millcreek city,Utah,Salt Lake County,49035
+Laguna Niguel city,California,Orange County,06059
+Madison city,Alabama,Limestone County,01083
+Madison city,Alabama,Madison County,01089
+Chapel Hill town,North Carolina,Durham County,37063
+Chapel Hill town,North Carolina,Orange County,37135
+Hamilton city,Ohio,Butler County,39017
+Hendersonville city,Tennessee,Sumner County,47165
+Moore city,Oklahoma,Cleveland County,40027
+Coon Rapids city,Minnesota,Anoka County,27003
+Utica city,New York,Oneida County,36065
+Lynwood city,California,Los Angeles County,06037
+Porterville city,California,Tulare County,06107
+Palm Beach Gardens city,Florida,Palm Beach County,12099
+Wellington village,Florida,Palm Beach County,12099
+Bossier City city,Louisiana,Bossier Parish,22015
+Marietta city,Georgia,Cobb County,13067
+Westfield city,Indiana,Hamilton County,18057
+Jupiter town,Florida,Palm Beach County,12099
+Woodland city,California,Yolo County,06113
+Wylie city,Texas,Collin County,48085
+Wylie city,Texas,Dallas County,48113
+Wylie city,Texas,Rockwall County,48397
+Eden Prairie city,Minnesota,Hennepin County,27053
+Apopka city,Florida,Orange County,12095
+Lakewood city,Washington,Pierce County,53053
+Council Bluffs city,Iowa,Pottawattamie County,19155
+San Clemente city,California,Orange County,06059
+Santa Cruz city,California,Santa Cruz County,06087
+White Plains city,New York,Westchester County,36119
+Pontiac city,Michigan,Oakland County,26125
+Marana town,Arizona,Pima County,04019
+Marana town,Arizona,Pinal County,04021
+Herriman city,Utah,Salt Lake County,49035
+North Miami city,Florida,Miami-Dade County,12086
+Bristol city,Connecticut,Hartford County,09003
+Vineland city,New Jersey,Cumberland County,34011
+Corvallis city,Oregon,Benton County,41003
+Taunton city,Massachusetts,Bristol County,25005
+Bentonville city,Arkansas,Benton County,05007
+Taylor city,Michigan,Wayne County,26163
+St. Peters city,Missouri,St. Charles County,29183
+La Habra city,California,Orange County,06059
+Burlington city,North Carolina,Alamance County,37001
+Burlington city,North Carolina,Guilford County,37081
+Blue Springs city,Missouri,Jackson County,29095
+Little Elm city,Texas,Denton County,48121
+Springfield city,Oregon,Lane County,41039
+Encinitas city,California,San Diego County,06073
+Dearborn Heights city,Michigan,Wayne County,26163
+Stonecrest city,Georgia,DeKalb County,13089
+Meriden city,Connecticut,New Haven County,09009
+La Mesa city,California,San Diego County,06073
+Revere city,Massachusetts,Suffolk County,25025
+Owensboro city,Kentucky,Daviess County,21059
+Margate city,Florida,Broward County,12011
+Montebello city,California,Los Angeles County,06037
+Hanford city,California,Kings County,06031
+Eagle Mountain city,Utah,Utah County,49049
+Kannapolis city,North Carolina,Cabarrus County,37025
+Kannapolis city,North Carolina,Rowan County,37159
+Gilroy city,California,Santa Clara County,06085
+Smyrna town,Tennessee,Rutherford County,47149
+Smyrna town,Tennessee,Williamson County,47187
+Weymouth Town city,Massachusetts,Norfolk County,25021
+Kokomo city,Indiana,Howard County,18067
+Great Falls city,Montana,Cascade County,30013
+Euless city,Texas,Tarrant County,48439
+Winter Haven city,Florida,Polk County,12105
+San Rafael city,California,Marin County,06041
+Medford city,Massachusetts,Middlesex County,25017
+Grand Forks city,North Dakota,Grand Forks County,38035
+West Allis city,Wisconsin,Milwaukee County,55079
+Coconut Creek city,Florida,Broward County,12011
+Hempstead village,New York,Nassau County,36059
+Beaumont city,California,Riverside County,06065
+Lenexa city,Kansas,Johnson County,20091
+Spring Hill city,Tennessee,Maury County,47119
+Spring Hill city,Tennessee,Williamson County,47187
+Petaluma city,California,Sonoma County,06097
+Brookhaven city,Georgia,DeKalb County,13089
+Pico Rivera city,California,Los Angeles County,06037
+Hoboken city,New Jersey,Hudson County,34017
+Youngstown city,Ohio,Mahoning County,39099
+Youngstown city,Ohio,Trumbull County,39155
+Santee city,California,San Diego County,06073
+Lake Havasu City city,Arizona,Mohave County,04015
+Dubuque city,Iowa,Dubuque County,19061
+Gardena city,California,Los Angeles County,06037
+Des Plaines city,Illinois,Cook County,17031
+Casper city,Wyoming,Natrona County,56025
+Cupertino city,California,Santa Clara County,06085
+Lacey city,Washington,Thurston County,53067
+Terre Haute city,Indiana,Vigo County,18167
+Midwest City city,Oklahoma,Oklahoma County,40109
+National City city,California,San Diego County,06073
+Lancaster city,Pennsylvania,Lancaster County,42071
+Bowie city,Maryland,Prince George's County,24033
+Royal Oak city,Michigan,Oakland County,26125
+Pocatello city,Idaho,Bannock County,16005
+Pocatello city,Idaho,Power County,16077
+Bradenton city,Florida,Manatee County,12081
+Carson City,Nevada,Carson City,32510
+Springfield city,Ohio,Clark County,39023
+St. Clair Shores city,Michigan,Macomb County,26099
+Orland Park village,Illinois,Cook County,17031
+Orland Park village,Illinois,Will County,17197
+Monterey Park city,California,Los Angeles County,06037
+Decatur city,Alabama,Limestone County,01083
+Decatur city,Alabama,Morgan County,01103
+Bozeman city,Montana,Gallatin County,30031
+Texas City city,Texas,Chambers County,48071
+Texas City city,Texas,Galveston County,48167
+Taylorsville city,Utah,Salt Lake County,49035
+Sarasota city,Florida,Sarasota County,12115
+Southaven city,Mississippi,DeSoto County,28033
+New Brunswick city,New Jersey,Middlesex County,34023
+Saratoga Springs city,Utah,Utah County,49049
+Coeur d'Alene city,Idaho,Kootenai County,16055
+Tigard city,Oregon,Washington County,41067
+Smyrna city,Georgia,Cobb County,13067
+Albany city,Oregon,Benton County,41003
+Albany city,Oregon,Linn County,41043
+Bonita Springs city,Florida,Lee County,12071
+Kingsport city,Tennessee,Hawkins County,47073
+Kingsport city,Tennessee,Sullivan County,47163
+Kettering city,Ohio,Greene County,39057
+Kettering city,Ohio,Montgomery County,39113
+Perth Amboy city,New Jersey,Middlesex County,34023
+Logan city,Utah,Cache County,49005
+Wake Forest town,North Carolina,Franklin County,37069
+Wake Forest town,North Carolina,Wake County,37183
+DeSoto city,Texas,Dallas County,48113
+Bartlett city,Tennessee,Shelby County,47157
+Oak Lawn village,Illinois,Cook County,17031
+Plainfield city,New Jersey,Union County,34039
+Highland city,California,San Bernardino County,06071
+Olympia city,Washington,Thurston County,53067
+Lincoln city,California,Placer County,06061
+Burleson city,Texas,Johnson County,48251
+Burleson city,Texas,Tarrant County,48439
+Fountain Valley city,California,Orange County,06059
+West Sacramento city,California,Yolo County,06113
+Anderson city,Indiana,Madison County,18095
+Port Arthur city,Texas,Jefferson County,48245
+Port Arthur city,Texas,Orange County,48361
+Valdosta city,Georgia,Lowndes County,13185
+Twin Falls city,Idaho,Twin Falls County,16083
+San Jacinto city,California,Riverside County,06065
+Mount Prospect village,Illinois,Cook County,17031
+Peabody city,Massachusetts,Essex County,25009
+Chicopee city,Massachusetts,Hampden County,25013
+West Haven city,Connecticut,New Haven County,09009
+Apple Valley city,Minnesota,Dakota County,27037
+Berwyn city,Illinois,Cook County,17031
+Tinley Park village,Illinois,Cook County,17031
+Tinley Park village,Illinois,Will County,17197
+Kentwood city,Michigan,Kent County,26081
+Manhattan city,Kansas,Pottawatomie County,20149
+Manhattan city,Kansas,Riley County,20161
+Fulshear city,Texas,Fort Bend County,48157
+Rocky Mount city,North Carolina,Edgecombe County,37065
+Rocky Mount city,North Carolina,Nash County,37127
+Arcadia city,California,Los Angeles County,06037
+Yucaipa city,California,San Bernardino County,06071
+Methuen Town city,Massachusetts,Essex County,25009
+Pensacola city,Florida,Escambia County,12033
+Wheaton city,Illinois,DuPage County,17043
+Elkhart city,Indiana,Elkhart County,18039
+Joplin city,Missouri,Jasper County,29097
+Joplin city,Missouri,Newton County,29145
+Elyria city,Ohio,Lorain County,39093
+Edina city,Minnesota,Hennepin County,27053
+Rockwall city,Texas,Rockwall County,48397
+Galveston city,Texas,Galveston County,48167
+Colton city,California,San Bernardino County,06071
+Pinellas Park city,Florida,Pinellas County,12103
+Placentia city,California,Orange County,06059
+Normal town,Illinois,McLean County,17113
+Grand Island city,Nebraska,Hall County,31079
+Delano city,California,Kern County,06029
+Palm Desert city,California,Riverside County,06065
+West New York town,New Jersey,Hudson County,34017
+Oak Park village,Illinois,Cook County,17031
+Jeffersonville city,Indiana,Clark County,18019
+Mooresville town,North Carolina,Iredell County,37097
+Minnetonka city,Minnesota,Hennepin County,27053
+Summerville town,South Carolina,Berkeley County,45015
+Summerville town,South Carolina,Charleston County,45019
+Summerville town,South Carolina,Dorchester County,45035
+Cathedral City city,California,Riverside County,06065
+Gallatin city,Tennessee,Sumner County,47165
+Novato city,California,Marin County,06041
+Diamond Bar city,California,Los Angeles County,06037
+Middletown city,Ohio,Butler County,39017
+Middletown city,Ohio,Warren County,39165
+Battle Creek city,Michigan,Calhoun County,26025
+Huntington Park city,California,Los Angeles County,06037
+Burien city,Washington,King County,53033
+Columbus city,Indiana,Bartholomew County,18005
+Collierville town,Tennessee,Shelby County,47157
+Everett city,Massachusetts,Middlesex County,25017
+Dunwoody city,Georgia,DeKalb County,13089
+Bothell city,Washington,King County,53033
+Bothell city,Washington,Snohomish County,53061
+Celina city,Texas,Collin County,48085
+Celina city,Texas,Denton County,48121
+Lebanon city,Tennessee,Wilson County,47189
+Prescott Valley town,Arizona,Yavapai County,04025
+Newark city,Ohio,Licking County,39089
+Watsonville city,California,Santa Cruz County,06087
+Grapevine city,Texas,Dallas County,48113
+Grapevine city,Texas,Denton County,48121
+Grapevine city,Texas,Tarrant County,48439
+Florissant city,Missouri,St. Louis County,29189
+Ocoee city,Florida,Orange County,12095
+Paramount city,California,Los Angeles County,06037
+Harrisonburg city,Virginia,Harrisonburg city,51660
+Troy city,New York,Rensselaer County,36083
+La Crosse city,Wisconsin,La Crosse County,55063
+Mishawaka city,Indiana,St. Joseph County,18141
+Milford city (balance),Connecticut,New Haven County,09009
+Cuyahoga Falls city,Ohio,Summit County,39153
+Hoffman Estates village,Illinois,Cook County,17031
+Hoffman Estates village,Illinois,Kane County,17089
+Clermont city,Florida,Lake County,12069
+Murray city,Utah,Salt Lake County,49035
+Fort Pierce city,Florida,St. Lucie County,12111
+Harrisburg city,Pennsylvania,Dauphin County,42043
+Downers Grove village,Illinois,DuPage County,17043
+Enid city,Oklahoma,Garfield County,40047
+Aliso Viejo city,California,Orange County,06059
+Coral Gables city,Florida,Miami-Dade County,12086
+Goose Creek city,South Carolina,Berkeley County,45015
+Cleveland city,Tennessee,Bradley County,47011
+Sherman city,Texas,Grayson County,48181
+Draper city,Utah,Salt Lake County,49035
+Draper city,Utah,Utah County,49049
+Stillwater city,Oklahoma,Payne County,40119
+Glendora city,California,Los Angeles County,06037
